@@ -4,7 +4,7 @@ shortname: EAIM
 year: '2026'
 title: Proceedings of Machine Learning Research
 volume: '303'
-start: &1 2026-01-26
+start: 2026-01-26
 end: 2026-01-26
 published: 2026-01-27
 layout: proceedings
@@ -80,7 +80,7 @@ conference:
   url: https://amaai-lab.github.io/EAIM2026/
   location: Singapore, Singapore
   dates:
-  - *1
+  - 2026-01-26
 analytics:
   google:
     tracking_id: UA-92432422-1
